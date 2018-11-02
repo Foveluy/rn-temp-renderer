@@ -1,4 +1,7 @@
 # rn-temp-renderer
 
-这个项目仅仅是为了让 0.57.4 以下的 react native 使用 react hooks.
+this project is the build of react-native for 0.57.4 to use react hooks.
 
+# notice
+
+please follow this [ instructions ](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687)
